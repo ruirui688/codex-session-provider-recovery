@@ -5,6 +5,20 @@
 
 > 适用于 Windows 上的 Codex 桌面端。本工具只处理本机 `C:\Users\<你>\.codex` 下的本地会话索引，不会恢复云端删除的数据。
 
+English summary: recover missing local Codex Desktop chat history after changing login method, account, model provider, OpenAI-compatible proxy, or `model_provider`.
+
+## Search keywords
+
+如果你是通过搜索找到这里，常见问题一般会这样描述：
+
+- Codex 切换账号后聊天记录消失
+- Codex 更换登录方式后旧对话不见
+- Codex Desktop old conversations disappeared
+- Codex missing chat history after login change
+- Codex sessions not showing after provider change
+- Codex `model_provider` changed from `OpenAI` to `codexproxy_codex`
+- recover `.codex\sessions` and `state_5.sqlite`
+
 ## 什么时候用
 
 如果你遇到这些现象，可以尝试：
